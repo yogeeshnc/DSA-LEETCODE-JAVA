@@ -14,6 +14,7 @@ Platform: LeetCode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +42,8 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
