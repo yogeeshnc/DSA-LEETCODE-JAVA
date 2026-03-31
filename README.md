@@ -15,6 +15,7 @@ Platform: LeetCode
 | [0001-two-sum](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -34,10 +35,12 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+| [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
