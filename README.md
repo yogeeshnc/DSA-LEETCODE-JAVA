@@ -18,6 +18,7 @@ Platform: LeetCode
 | [0027-remove-element](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0414-third-maximum-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -28,6 +29,7 @@ Platform: LeetCode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,5 +70,10 @@ Platform: LeetCode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0414-third-maximum-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
