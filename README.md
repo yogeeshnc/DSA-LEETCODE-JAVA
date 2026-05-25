@@ -55,6 +55,7 @@ Platform: LeetCode
 | [0009-palindrome-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2235-add-two-integers/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -106,5 +107,6 @@ Platform: LeetCode
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
