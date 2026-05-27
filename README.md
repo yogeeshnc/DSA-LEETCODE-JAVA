@@ -19,6 +19,7 @@ Platform: LeetCode
 | [0066-plus-one](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0136-single-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
@@ -109,6 +110,7 @@ Platform: LeetCode
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
