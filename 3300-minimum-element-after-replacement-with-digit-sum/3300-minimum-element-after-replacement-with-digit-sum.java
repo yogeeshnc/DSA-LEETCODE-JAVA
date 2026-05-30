@@ -8,7 +8,9 @@ class Solution {
                 n+=(num%10);
                 num/=10;
             }
-            min=Math.min(min,n);
+            if(n<min){
+                min=n;
+            }
             }
 
 
