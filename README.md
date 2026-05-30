@@ -28,6 +28,7 @@ Platform: LeetCode
 | [0268-missing-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -42,6 +43,7 @@ Platform: LeetCode
 | [0169-majority-element](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String
@@ -99,6 +101,7 @@ Platform: LeetCode
 | [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
+| [0645-set-mismatch](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,5 +123,6 @@ Platform: LeetCode
 | [0136-single-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0645-set-mismatch](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
