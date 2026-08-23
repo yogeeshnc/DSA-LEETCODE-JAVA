@@ -51,6 +51,7 @@ Platform: LeetCode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [0058-length-of-last-word](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0344-reverse-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
