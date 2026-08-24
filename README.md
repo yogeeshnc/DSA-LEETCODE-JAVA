@@ -53,6 +53,7 @@ Platform: LeetCode
 | [0014-longest-common-prefix](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Platform: LeetCode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
