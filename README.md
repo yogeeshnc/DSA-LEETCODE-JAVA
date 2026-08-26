@@ -55,6 +55,7 @@ Platform: LeetCode
 | [0344-reverse-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0796-rotate-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0796-rotate-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +133,8 @@ Platform: LeetCode
 | [0371-sum-of-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
