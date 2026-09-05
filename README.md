@@ -67,6 +67,7 @@ Platform: LeetCode
 | [0009-palindrome-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -131,6 +132,7 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
@@ -139,4 +141,8 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0796-rotate-string/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
