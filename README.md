@@ -27,6 +27,7 @@ Platform: LeetCode
 | [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
@@ -82,6 +83,7 @@ Platform: LeetCode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0680-valid-palindrome-ii/) | Easy |
