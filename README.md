@@ -35,6 +35,7 @@ Platform: LeetCode
 | [1470-shuffle-the-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1528-shuffle-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -63,6 +64,7 @@ Platform: LeetCode
 | [0392-is-subsequence](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0796-rotate-string/) | Easy |
+| [1528-shuffle-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1528-shuffle-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
