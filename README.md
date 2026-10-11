@@ -40,6 +40,7 @@ Platform: LeetCode
 | [1929-concatenation-of-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Hash Table
@@ -172,4 +173,8 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
