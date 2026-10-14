@@ -77,6 +77,7 @@ Platform: LeetCode
 | [0066-plus-one](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -164,6 +165,7 @@ Platform: LeetCode
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [1929-concatenation-of-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -177,4 +179,8 @@ Platform: LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
