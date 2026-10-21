@@ -86,6 +86,7 @@ Platform: LeetCode
 | [0268-missing-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2235-add-two-integers/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -158,6 +159,7 @@ Platform: LeetCode
 | [0371-sum-of-two-integers](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
