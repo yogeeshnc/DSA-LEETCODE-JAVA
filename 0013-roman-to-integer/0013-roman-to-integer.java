@@ -1,24 +1,24 @@
-
 class Solution {
     public int romanToInt(String s) {
-        int ans = 0;
-
-        for (int i = 0; i < s.length(); i++) {
-
-            int curr = value(s.charAt(i));
-
-            if (i + 1 < s.length() &&
-                curr < value(s.charAt(i + 1))) {
-                ans -= curr;
+        int total = 0;
+        int length = s.length();
+        
+        for (int i = 0; i < length; i++) {
+            int currentVal = getVal(s.charAt(i));
+            
+            // If the current value is less than the next value, subtract it
+            if (i < length - 1 && currentVal < getVal(s.charAt(i + 1))) {
+                total -= currentVal;
             } else {
-                ans += curr;
+                total += currentVal;
             }
         }
-
-        return ans;
+        
+        return total;
     }
-
-    public int value(char c) {
+    
+    // Using a switch-case is faster than Map lookup in Java
+    private int getVal(char c) {
         switch (c) {
             case 'I': return 1;
             case 'V': return 5;
