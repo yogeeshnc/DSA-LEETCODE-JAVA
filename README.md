@@ -53,6 +53,7 @@ Platform: LeetCode
 | [0229-majority-element-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
+| [0771-jewels-and-stones](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -66,6 +67,7 @@ Platform: LeetCode
 | [0344-reverse-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0771-jewels-and-stones](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/0796-rotate-string/) | Easy |
 | [1528-shuffle-string](https://github.com/yogeeshnc/DSA-LEETCODE/tree/main/1528-shuffle-string/) | Easy |
 ## Sliding Window
